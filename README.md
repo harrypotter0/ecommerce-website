@@ -1,4 +1,4 @@
-ecommerce
+# ecommerce-website
 =========
 
 A PHP e-commerce web application.
@@ -13,4 +13,4 @@ A PHP e-commerce web application.
 Enjoy!
 
 Currently only COD (Cash on Delivery), has been implemented. Working on email delivery on purchase and payment gateway. Stay tuned for the updates.
-# ecommerce-website
+
